@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TomTomTest</string>
+    <array name="Icones">
+        <item>Icone 1</item>
+        <item>Icone 2</item>
+        <item>Icone 3</item>
+        <item>Icone 4</item>
+        <item>Icone 5</item>
+    </array>
+</resources>
