@@ -18,7 +18,7 @@
         </activity>
         <meta-data
             android:name="OnlineMaps.Key"
-            android:value="LNmuNrS25Vabs9DyptWeVw5XzuJbAWZ5" />
+            android:value="//TODO: COLOCCAR A KEY" />
     </application>
 
 </manifest>
